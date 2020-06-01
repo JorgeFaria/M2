@@ -10,7 +10,7 @@
 
 **Features:**
 
-* Random loot
+* Loot randomizer
 * Loot spawn area
 * Custom Loot Spawn
 * Loot Spread
