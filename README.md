@@ -20,6 +20,6 @@ Custom Loot Spawn;
 
 Loot Spread;
 
-Speacial Events;
+Special Events;
 
 Loot Boxes(**Not Gamble, physical box**)
