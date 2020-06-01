@@ -1,5 +1,4 @@
-# M2
-## **M2 Jorge Faria** 
+# **M2 ** 
 ### ***Loot Generator***
 
 ***Loot tier:***
