@@ -2,7 +2,8 @@
 ## **M2 Jorge Faria** 
 ### ***Loot Generator***
 
-Loot tier:
+***Loot tier:***
+
 Tier1 - Worse loot
 
 Tier2 - MidLow loot
@@ -11,7 +12,6 @@ Tier3 - MidHigh loot
 
 Tier4 - Best loot
 
-
+**Features**
 Spawn Area;
-
 Custom Loot Spawn;
