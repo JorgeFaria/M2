@@ -11,7 +11,7 @@
 **Features:**
 
 * Random loot
-* Spawn Area
+* Loot spawn area
 * Custom Loot Spawn
 * Loot Spread
 * Special Events
