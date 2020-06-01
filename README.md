@@ -11,12 +11,8 @@
 
 **Features:**
 
--Spawn Area;
-
--Custom Loot Spawn;
-
--Loot Spread;
-
--Special Events;
-
--Loot Boxes(**Not Gamble, physical box**)
+*Spawn Area;
+*Custom Loot Spawn;
+*Loot Spread;
+*Special Events;
+*Loot Boxes(**Not Gamble, physical box**)
