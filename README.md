@@ -12,7 +12,7 @@
 
 * Loot randomizer
 * Loot spawn area
-* Custom Loot Spawn
+* Custom Loot Spawn(Select specific items to spawn)
 * Loot Spread
 * Special Events
 * Loot Boxes(**Not Gamble, physical box**)
