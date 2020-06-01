@@ -22,4 +22,4 @@ Loot Spread;
 
 Speacial Events;
 
-Loot Boxes**(Not Gamble, physical box)**
+Loot Boxes(**Not Gamble, physical box**)
