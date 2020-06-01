@@ -1,5 +1,5 @@
-# **M2 ** 
-### ***Loot Generator***
+# **M2** 
+## ***Loot Generator***
 
 ***Loot tier:***
 
