@@ -12,6 +12,8 @@ Tier3 - MidHigh loot
 
 Tier4 - Best loot
 
-**Features**
+**Features:**
+
 Spawn Area;
+
 Custom Loot Spawn;
