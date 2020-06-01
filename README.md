@@ -17,3 +17,9 @@ Tier4 - Best loot
 Spawn Area;
 
 Custom Loot Spawn;
+
+Loot Spread;
+
+Speacial Events;
+
+Loot Boxes**(Not Gamble, physical box)**
